@@ -4,19 +4,19 @@ markdown: redcarpet
 
 # 作者信息
 author: 
-  name: Anya Lin
-  email: lay.1010@hotmail.com
-  link: http://painterlin.com
+  name: Zhou Weihua
+  email: zwhua12345@gmail.com
+  link: 
   weibo: http://weibo.com/orangeissweet
-  github: http://github.com/lay1010
-  music: http://site.douban.com/linanya
-  linkedin: https://www.linkedin.com/pub/anya-lin/81/91/232
+  github: http://github.com/zwhua888
+  music:
+  linkedin:
 
 # 站点信息
-title: 林安亚的博客
-description: My personal blog
-url: http://painterlin.com
-rss_url: /pages/atom.xml
+title: 周卫华的个人网站
+description: My personal website
+url: zwhua.top
+rss_url: 
 
 # gavatar头像及Favicon
 gavatar: /public/img/deer3.png
